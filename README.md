@@ -9,4 +9,5 @@ This is the screenshot of the final product:
 [Day Planner]()
 
 This is the link to the final product in GitHub page.
+<https://wmccone.github.io/walter_m_workday_scheduler/>
 
